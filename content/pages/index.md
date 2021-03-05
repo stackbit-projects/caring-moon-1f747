@@ -1,5 +1,4 @@
 ---
-title: Hom
 hide_title: true
 sections:
   - section_id: hero
